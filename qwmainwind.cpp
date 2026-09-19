@@ -141,9 +141,8 @@ void QWMainWind::on_actAbout_triggered()
 {//关于对话框，显示姓名、学号等信息
     QMessageBox::about(this, tr("关于"),
         tr("<b>文本编辑器</b><br><br>"
-           "姓名：XXX<br>"
-           "学号：XXX<br>"
-           "班级：XXX<br>"
+           "姓名：赵阳<br>"
+           "学号：2024414290242<br>"
            "课程：Qt程序设计"));
 }
 
